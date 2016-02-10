@@ -1,0 +1,6 @@
+declare
+	greeting = "Hello, World!"
+begin
+	call display greeting $
+	call newline $
+end

@@ -1,0 +1,9 @@
+declare
+	x = 10
+	y = 16
+	z = 1402
+begin
+	* 2 x
+	+ y x
+end
+
